@@ -9,9 +9,9 @@ You will need to install [Node.js](https://nodejs.org/en/) before using this tem
 1. Click "[Use this template](https://github.com/cipscis/base-project/generate)" to create a new repository based on this one.
 2. Update the `package.json` file to reflect your new project's details.
 3. Update names throughout the package.
-	a. Replace `base-project` with the name of your project as it is used in code.
-	b. Replace `Base Project` Replace with the name of your project as it is used in documentation.
-	c. If you're not me, replace `@cipscis` with your npm username and then `cipscis` with your GitHub username, and be sure to also update the `author` property in the `package.json`.
+	a. Replace `sketch` with the name of your project as it is used in code.
+	b. Replace `sketch` Replace with the name of your project as it is used in documentation.
+	c. If you're not me, replace `@anushkakhuspe` with your npm username and then `anushkakhuspe` with your GitHub username, and be sure to also update the `author` property in the `package.json`.
 4. Create a `.env` file. See [.env](#env-1) for more information.
 5. Run `npm install`.
 6. Update this `README.md` file and the `CHANGELOG.md` file to remove the instruction sections.
